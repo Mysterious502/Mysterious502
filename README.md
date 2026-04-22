@@ -9,6 +9,8 @@ A browser extension that started as a tiny fix and has quietly grown into a priv
 Fun fact:<br>
 I'm not funny. Jokes escape me, punchlines miss me, and silence is my natural habitat. What I lack in humor I make up for in mystery—I'm the shadow in the member list you're never quite sure is online.<br><br>
 
+<img align="right" alt="coding" width="500" src="https://img.freepik.com/premium-photo/night-coder-neon-workspace-futuristic-home-office-vibes-programming-enthusiasts_94064-55791.jpg?semt=ais_hybrid&w=740&q=80">
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/rSeaJZZnfE) 
 
