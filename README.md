@@ -9,7 +9,7 @@ A browser extension that started as a tiny fix and has quietly grown into a priv
 Fun fact:<br>
 I'm not funny. Jokes escape me, punchlines miss me, and silence is my natural habitat. What I lack in humor I make up for in mystery—I'm the shadow in the member list you're never quite sure is online.<br><br>
 
-<img align="right" alt="coding" width="500" src="https://img.freepik.com/premium-photo/night-coder-neon-workspace-futuristic-home-office-vibes-programming-enthusiasts_94064-55791.jpg?semt=ais_hybrid&w=740&q=80">
+<img align="right" alt="coding" width="500" src="https://cdn.discordapp.com/attachments/1317477464695373895/1496480475479281855/f694479b-03c3-4537-95ef-29bbf1f32f14.png?ex=69ea098c&is=69e8b80c&hm=da47581ede04b7ed48c473cb6213ecf73dbfc92098310ab609243c773afa8747">
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/rSeaJZZnfE) 
@@ -58,6 +58,8 @@ I'm not funny. Jokes escape me, punchlines miss me, and silence is my natural ha
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+<img align="right" alt="coding" width="500" src="https://cdn.discordapp.com/attachments/1317477464695373895/1496483019295559721/88969c54-468f-4b8c-97fb-2c71c93d6a6d.png?ex=69ea0beb&is=69e8ba6b&hm=325b5894ca4f13c29dff648716532fc87246f28e88c7d0b7acfab3af35da558d">
+
 ## ⚙️ DevOps & Tooling
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
@@ -100,12 +102,14 @@ I'm not funny. Jokes escape me, punchlines miss me, and silence is my natural ha
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) 
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 
+<img align="right" alt="coding" width="350" src="https://cdn.discordapp.com/attachments/1317477464695373895/1496484558638682262/e9785e81-b4a8-403d-8e11-9ed41eb8415c.png?ex=69ea0d5a&is=69e8bbda&hm=86c715960d01711b7d8ef14b1a1f655660b47aa438b6e8510d5401651cf5c748">
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Mysterious502&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Mysterious502&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mysterious502&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+--- 
 [![](https://komarev.com/ghpvc/?username=Mysterious502&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
