@@ -102,7 +102,7 @@ I'm not funny. Jokes escape me, punchlines miss me, and silence is my natural ha
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) 
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 
-<img align="right" alt="coding" width="350" src="https://cdn.discordapp.com/attachments/1317477464695373895/1496484558638682262/e9785e81-b4a8-403d-8e11-9ed41eb8415c.png?ex=69ea0d5a&is=69e8bbda&hm=86c715960d01711b7d8ef14b1a1f655660b47aa438b6e8510d5401651cf5c748">
+<img align="right" alt="coding" width="330" src="https://cdn.discordapp.com/attachments/1317477464695373895/1496484558638682262/e9785e81-b4a8-403d-8e11-9ed41eb8415c.png?ex=69ea0d5a&is=69e8bbda&hm=86c715960d01711b7d8ef14b1a1f655660b47aa438b6e8510d5401651cf5c748">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Mysterious502&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
