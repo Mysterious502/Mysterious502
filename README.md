@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Mysterious502/Mysterious502/blob/main/edea2e33-6c06-4881-aaf6-184c2f398557.png)
 
 # 💫 About Me:
 Currently working on:<br>Crafting Discord bots that go beyond basic commands—custom utilities, silent moderation layers, and small automations that keep servers running like clockwork. It's mostly Node.js, a bit of chaos, and a lot of late-night debugging.<br><br>Open to collaboration on:<br>Game mods that dig deep into old favorites and modern titles alike—restoring cut content, overhauling systems, or just making the UI less annoying. Whether it's Unity, Unreal, or a 2008 RPG held together by hope, I'm in.<br><br>Looking for help with:<br>A browser extension that started as a tiny fix and has quietly grown into a privacy-first productivity tool. I could use an extra set of eyes on Manifest V3 quirks, popup styling, or just making it feel less like a prototype and more like a real release.<br><br>Fun fact:<br>I'm not funny. Jokes escape me, punchlines miss me, and silence is my natural habitat. What I lack in humor I make up for in mystery—I'm the shadow in the member list you're never quite sure is online.<br><br>
